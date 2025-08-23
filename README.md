@@ -39,7 +39,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/ahmedev192/chapter-one-assessment/
+   git clone https://github.com/ahmedev192/chapter-one-assessment.git
    cd chapter-one-assessment
    ```
 

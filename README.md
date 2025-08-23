@@ -50,19 +50,13 @@ Make sure you have the following installed:
 
 3. **Start the development server**:
    ```bash
-   npm run dev
+   npx expo start
    ```
 
 4. **Run on your device**:
    - Install the Expo Go app on your iOS or Android device
    - Scan the QR code displayed in the terminal
    - Or run `expo start` and follow the instructions
-
-### Development Commands
-
-- `npm run dev` - Start the development server
-- `npm run build:web` - Build for web deployment
-- `npm run lint` - Run the linter
 
 ## Project Structure
 

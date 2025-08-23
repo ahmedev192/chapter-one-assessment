@@ -39,8 +39,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repository-url>
-   cd task-manager-app
+   git clone https://github.com/ahmedev192/chapter-one-assessment/
+   cd chapter-one-assessment
    ```
 
 2. **Install dependencies**:
@@ -129,10 +129,6 @@ This app is built with Expo and supports:
 - **iOS**: iPhone and iPad
 - **Android**: Phones and tablets
 - **Web**: Modern browsers (Chrome, Firefox, Safari)
-
-## Contributing
-
-This is a demonstration project showcasing React Native and Expo development best practices. The code is structured for easy extension and modification.
 
 ### Potential Enhancements
 - Task categories and tags
